@@ -1,0 +1,14 @@
+D:\C#\CodeBlocks\bin\Debug\net8.0\CodeBlocks.exe
+D:\C#\CodeBlocks\bin\Debug\net8.0\CodeBlocks.deps.json
+D:\C#\CodeBlocks\bin\Debug\net8.0\CodeBlocks.runtimeconfig.json
+D:\C#\CodeBlocks\bin\Debug\net8.0\CodeBlocks.dll
+D:\C#\CodeBlocks\bin\Debug\net8.0\CodeBlocks.pdb
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.AssemblyInfoInputs.cache
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.AssemblyInfo.cs
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.csproj.CoreCompileInputs.cache
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.dll
+D:\C#\CodeBlocks\obj\Debug\net8.0\refint\CodeBlocks.dll
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.pdb
+D:\C#\CodeBlocks\obj\Debug\net8.0\CodeBlocks.genruntimeconfig.cache
+D:\C#\CodeBlocks\obj\Debug\net8.0\ref\CodeBlocks.dll
